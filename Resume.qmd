@@ -1,0 +1,13 @@
+---
+title: "Resume"
+output: html
+---
+
+<center> ![](Resume\Resume.pdf){width=70%, height=100%}
+
+
+
+
+
+
+

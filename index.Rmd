@@ -1,0 +1,7 @@
+---
+title: "My Website"
+---
+<center>![](image/Mypic.jpg)
+
+Hello, I am Namrta Sharma!
+
